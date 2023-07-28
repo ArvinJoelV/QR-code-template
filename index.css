@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #d6e2f0;
+    width: fit-content;
+    margin: auto;
+    margin-top: 50px;
+}
+.main{
+    background:center;
+    background-color: white;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-radius: 20px;
+    width: min-content;
+    box-shadow:1px 1px 5px 1px rgba(0,0,0,0.2);
+
+
+}
+.qr{
+    margin: 25px;
+    border-radius: 20px;
+    width: fit-content;
+    overflow: hidden;
+
+}
+.text1{
+    margin-top: 20px;
+    margin-left: 40px;
+    color: #1f3251;
+}
+.text2{
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+    color:#7b879d ;
+}
